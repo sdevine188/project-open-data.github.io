@@ -8,7 +8,7 @@ title: Project Open Data
 
 ## 1. Example Header
 
-Test text [link to sibling] (sibling_page/)
+Test text [link to sibling](sibling_page/)
 
 - test list
 - test list2
