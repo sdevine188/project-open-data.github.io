@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Disaster Assistance Program Coordination
-permalink: /fema-case-study/
-filename: fema-case-study.md
+permalink: /sibling_page/
+filename: sibling_page.md
 ---
 
 *October 24, 2012    
